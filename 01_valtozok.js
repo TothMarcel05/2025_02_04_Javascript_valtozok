@@ -16,3 +16,7 @@ var x = "alma";
 console.log(x);
 
 let d = 3;
+console.log(d);
+//let d = 4;
+//console.log(d);
+//Identifier 'd' has already been declared
