@@ -68,5 +68,5 @@ function myFunction() {
   }
 
 console.log(myFunction());
-console.log(valtozo)
+// console.log(valtozo)
 console.log(valtozo2)
